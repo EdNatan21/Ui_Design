@@ -336,4 +336,48 @@
 
 # Sistema de design
     - Design systems, Conjunto de regras/elementos que são definidos para garantir consistência entre interfaces da marca
-    - Regras, As regras são definidas para todos os elementos do design, como espaços,cores,tipografia e mais
+    - Regras, As regras são definidas para todos os elementos do design, como espaços,cores,tipografia e mais.
+
+# Briefing
+* Estilo: Coletas peças anteriores criadas pela empresa que definem o estilo da mesma.
+    - (Cores, Tipografia, Imagens)
+    - Marca, de preferência vetorizada e manual da marca se existir
+    - Materiais promocionais, banners, embalagens, links para rede sociais e mais
+    - Referências, Sites e outras referências de gosto do cliente
+
+* Conteúdo: Quais os principais serviços/ produtos da empresa? Qual o objetivo do site?.
+    - Objetivo do Projeto, Qual o tipo do site? O cliente qer vender online ou apenas uma vitrine?.
+    - Produtos/Serviços, Quais produtos/serviços serão expostos no site (descrição e pontos fortes)? Qual a forma de contato
+    para adquirir/ tirar dúvidas sobre os produtos e serviços?.
+    - Funcionalidades, Será necessário cadastro de usuários, blog? Frequência de atualiação?
+    - Outras informações, Terá uma parte falando sobre a empresa, história, funcionários, vagas, eventos?
+
+* Pesquisa de Mercado: Entender o que os concorrentes e similares estão fazendo.
+    - Informações, Qual o tipo de informação é disponibilizada no site? preço, contato (email,chat), ficha técnica, assistência?
+    - Funcionalidades, O que é possível fazer no site? Comprar, solicitar orçamento, entrar em contato via chat, reservar um horário?
+    - Estilo, Cores, tipografia, formas, imagens e mais.
+
+* Pesquisa com Usuário: Nem sempre a atitude e o comportamento são equivalentes.
+    - Atitude, O que elas dizem que desejam. Entrevistas, grupo de foco e avaliações.
+    - Comportamento, Como elas utilizam a interface. Análise de clique, teste a/b e estudos de usabilidade.
+
+* Do início ao fim: um verdadeiro projeto de UX envolve o usuário em todas as etapas.
+    - Problema, Entrevistas, análise de avaliações online e outras técnicas são utilizadas para identificar o problemas inicial.
+    - Protótipo, Teste de a/b de usabilidade podem ser utilizados para testar o protótipo.
+    - Produto, O produto pode ser testado constantemente com teste de análise de uso para melhorarmos o mesmo.
+
+* Heurísticas: Regras "geralmente" testadas em diferentes projetos que provam ser efetivas.
+    - 10 heurísticas de usabilidade de Jakob Nielsen
+    - UX Design Heurísticas.
+    - Consistência, uma interface consistente é mais simples de ser aprendida.
+    - Prevenir erros, prevenir que os usuários cometam erros com instruções claras e confirmações para ações importantes.
+    - Visibilidade, o que estiver visivel vai ser mais utilizado do que o que estiver escondido.
+    - Engajamento gradual, pedir informações gradualmente para o usuário, ao invés de pedir tudo de uma vez.
+    - Opções, quanto menos opções, amior a chance do usuário adquirir o produto.
+
+# Wireframe
+* Vantagens
+    - Maior flexibilidade para mudanças
+    - É de rápida elaboração
+    - Facilita a criação do design final
+    - Permite teste de usuários no início do projeto
